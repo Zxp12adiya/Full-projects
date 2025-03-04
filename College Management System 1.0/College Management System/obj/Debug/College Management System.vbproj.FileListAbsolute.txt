@@ -1,0 +1,41 @@
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\bin\Debug\College Management System.exe.config
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\bin\Debug\College Management System.exe
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\bin\Debug\College Management System.pdb
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\bin\Debug\College Management System.xml
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form1.resources
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Resources.resources
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\obj\Debug\College Management System.vbproj.GenerateResource.Cache
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\obj\Debug\College Management System.exe
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\obj\Debug\College Management System.xml
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\obj\Debug\College Management System.pdb
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Login.resources
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\bin\Debug\Guna.UI.dll
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Dashboard.resources
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Departments.resources
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Fees_Deposit.resources
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Students.resources
+c:\users\shree balaji\documents\visual studio 2015\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Teachers.resources
+C:\Users\Shree Balaji\documents\visual studio 2015\Projects\College Management System\College Management System\bin\Debug\CMSDatabase.mdf
+C:\Users\Shree Balaji\documents\visual studio 2015\Projects\College Management System\College Management System\bin\Debug\CMSDatabase_log.ldf
+C:\Full Projects\College Management System 1.0\College Management System\bin\Debug\College Management System.exe.config
+C:\Full Projects\College Management System 1.0\College Management System\obj\Debug\College Management System.exe
+C:\Full Projects\College Management System 1.0\College Management System\obj\Debug\College Management System.xml
+C:\Full Projects\College Management System 1.0\College Management System\obj\Debug\College Management System.pdb
+C:\Full Projects\College Management System 1.0\College Management System\bin\Debug\CMSDatabase.mdf
+C:\Full Projects\College Management System 1.0\College Management System\bin\Debug\CMSDatabase_log.ldf
+C:\Full Projects\College Management System 1.0\College Management System\bin\Debug\College Management System.exe
+C:\Full Projects\College Management System 1.0\College Management System\bin\Debug\College Management System.pdb
+C:\Full Projects\College Management System 1.0\College Management System\bin\Debug\College Management System.xml
+C:\Full Projects\College Management System 1.0\College Management System\obj\Debug\College_Management_System.Dashboard.resources
+C:\Full Projects\College Management System 1.0\College Management System\obj\Debug\College_Management_System.Departments.resources
+C:\Full Projects\College Management System 1.0\College Management System\obj\Debug\College_Management_System.Fees_Deposit.resources
+C:\Full Projects\College Management System 1.0\College Management System\obj\Debug\College_Management_System.Form1.resources
+C:\Full Projects\College Management System 1.0\College Management System\obj\Debug\College_Management_System.Login.resources
+C:\Full Projects\College Management System 1.0\College Management System\obj\Debug\College_Management_System.Resources.resources
+C:\Full Projects\College Management System 1.0\College Management System\obj\Debug\College_Management_System.Students.resources
+C:\Full Projects\College Management System 1.0\College Management System\obj\Debug\College_Management_System.Teachers.resources
+C:\Full Projects\College Management System 1.0\College Management System\obj\Debug\College Management System.vbproj.GenerateResource.Cache
+C:\Full projects\College Management System 1.0\College Management System\obj\Debug\College Management System.vbproj.AssemblyReference.cache
+C:\Full projects\College Management System 1.0\College Management System\obj\Debug\College Management System.vbproj.CoreCompileInputs.cache
+C:\Full projects\College Management System 1.0\College Management System\obj\Debug\College Management System.vbproj.CopyComplete
